@@ -1,0 +1,9 @@
+
+rujn		 Low		 Completed		1
+run		 High		 not complete		3
+
+run Medium Completed 1
+
+king High Completed 1
+jumping Medium not complete 4
+gg Low not complete 0
